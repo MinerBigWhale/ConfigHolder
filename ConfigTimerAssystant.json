@@ -1,10 +1,17 @@
 {  
-   "text":{  
-      "fr":"Votre avis nous interesse !<br>Evaluez nous en un click sur le lien ci-dessous:",
-      "nl":"Uw mening interesseert ons !<br>Evalueer ons in één klik op de onderstaande link:"
-   },
-   "baseurl":{  
-      "fr":"https://irisnet.typeform.com/to/RVACV0",
-      "nl":"https://irisnet.typeform.com/to/INXWEt"
+   "survey":{
+      "active":true,
+      "lang":[
+         "fr",
+         "nl"
+      ],
+      "text":{  
+         "fr":"Votre avis nous interesse !<br>Evaluez nous en un click sur le lien ci-dessous:",
+         "nl":"Uw mening interesseert ons !<br>Evalueer ons in één klik op de onderstaande link:"
+      },
+      "baseurl":{  
+         "fr":"https://irisnet.typeform.com/to/RVACV0",
+         "nl":"https://irisnet.typeform.com/to/INXWEt"
+      }
    }
 }
