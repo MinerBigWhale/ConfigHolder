@@ -2,15 +2,18 @@
    "survey":{
       "lang":[
          "fr",
-         "nl"
+         "nl",
+         "en",
       ],
       "text":{  
          "fr":"Votre avis nous intéresse !<br>Evaluez nous en un clic sur le lien ci-dessous:",
-         "nl":"Uw mening interesseert ons !<br>Evalueer ons in één klik op de onderstaande link:"
+         "nl":"Uw mening interesseert ons !<br>Evalueer ons in één klik op de onderstaande link:",
+         "en":"We are interested in your feedback ! Evaluate us by clicking on the link below",
       },
       "baseurl":{  
          "fr":"https://irisnet.typeform.com/to/RVACV0",
-         "nl":"https://irisnet.typeform.com/to/INXWEt"
+         "nl":"https://irisnet.typeform.com/to/INXWEt",
+         "en":"https://irisnet.typeform.com/to/RVACV0"
       }
    }
 }
