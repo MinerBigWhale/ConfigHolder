@@ -3,12 +3,12 @@
       "lang":[
          "fr",
          "nl",
-         "en",
+         "en"
       ],
       "text":{  
          "fr":"Votre avis nous intéresse !<br>Evaluez nous en un clic sur le lien ci-dessous:",
          "nl":"Uw mening interesseert ons !<br>Evalueer ons in één klik op de onderstaande link:",
-         "en":"We are interested in your feedback !<br>Evaluate us by clicking on the link below:",
+         "en":"We are interested in your feedback !<br>Evaluate us by clicking on the link below:"
       },
       "baseurl":{  
          "fr":"https://irisnet.typeform.com/to/RVACV0",
