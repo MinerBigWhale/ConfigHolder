@@ -15,5 +15,17 @@
          "nl":"https://irisnet.typeform.com/to/INXWEt",
          "en":"https://irisnet.typeform.com/to/RVACV0"
       }
+   },
+   "close":{
+      "lang":[
+         "fr",
+         "nl",
+         "en"
+      ],
+      "text":{  
+         "fr":"Bonjour,<br><br>Sans réponse de votre part et le service étant rétabli, nous cloturons ce ticket.<br><br>Cordialement,",
+         "nl":"Hallo,<br><br>Zonder antwoord van jou kant en de service wordt hersteld, sluiten we dit kaartje.<br><br>Groeten,",
+         "en":"Hello,<br><br>Without answer from your part and the service being restored, we close this ticket.<br><br>Regards,"
+      }
    }
 }
