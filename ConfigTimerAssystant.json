@@ -27,5 +27,13 @@
          "nl":"Hallo,<br><br>Zonder antwoord van jou kant en de service wordt hersteld, sluiten we dit kaartje.<br><br>Groeten,",
          "en":"Hello,<br><br>Without answer from your part and the service being restored, we close this ticket.<br><br>Regards,"
       }
+   },
+   "billing":{
+      "lang":[
+         "fr"
+      ],
+      "text":{  
+         "fr":"Madame, Monsieur,<br><br>Votre demande sera traitée dans les plus brefs délais par notre équipe support mais nous vous demandons tout d'abord de marquer votre accord quant à la facturation des futures prestations liées.<br><br>En effet, les scénarios suivants (liste non exhaustive) ne sont pas couverts dans le cadre du service dont vous bénéficiez et pour lequel vous avez fait une demande spécifique :<br>- Changement de service ou changement de configuration<br>- Nouvelle demande (hors périmètre du service concerné)<br>- Correction à la demande du client ou toute autre (nouvelle) configuration<br><br>IRISnet facture les prestations par heure entamée (de plus de 15 minutes) au tarif de 70 € HTVA / heure.<br><br>Sans réponse de votre part, votre ticket sera automatiquement clôturé endéans les 48 heures.<br>En vous remerciant d'avance pour votre compréhension.<br><br>Bien à vous,<br>L'équipe Support IRISnet"
+      }
    }
 }
