@@ -24,7 +24,7 @@
       ],
       "text":{  
          "fr":"Bonjour,<br><br>Sans réponse de votre part et le service étant rétabli, nous cloturons ce ticket.<br><br>Cordialement,",
-         "nl":"Hallo,<br><br>Zonder antwoord van jou kant en de service wordt hersteld, sluiten we dit kaartje.<br><br>Groeten,",
+         "nl":"Hallo,<br><br>Indien dit ticket met succes is behandeld, en zonder tegenbericht van uw kant, sluiten we dit af.<br><br>Met vriendelijke groeten,",
          "en":"Hello,<br><br>Without answer from your part and the service being restored, we close this ticket.<br><br>Regards,"
       }
    },
